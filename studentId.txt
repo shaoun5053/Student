@@ -5,5 +5,10 @@ akbar = 4
 dulal = 5
 jabbar = 6 
 abbas = 7
+<<<<<<< Updated upstream
 mmmm = 10 
 bbbbb = 11
+=======
+llll = 8 
+kkkkk = 9
+>>>>>>> Stashed changes
