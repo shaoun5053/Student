@@ -1,2 +1,5 @@
 Rahim = 1 
 Ariful = 2
+karim = 3
+akbar = 4
+dulal = 5
